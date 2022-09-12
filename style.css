@@ -7,7 +7,9 @@
 .hero {
 position: relative;
 width: 100%;
-height: 100vh
+height: 100vh;
+background-image: url(/images/yo.jpg);
+background-size: cover;
 
 }
 .hero{
@@ -24,7 +26,19 @@ img ul li a {
         padding: 20px 0;
         align-items: center;
         align-items: space between;
+
+        <footer class="footer">
+        <div class="footer_bg">
+        <div class="footer_container container grid">
+        <div>
+        <h1 class="footer_title">Abdul</h1>
+        <span class="footer_subtitle"developer</span>
+
+
     }
+
+    <ul class="footer_link">
+    <li>
 
     nav ul li{
         display: inline-block;
