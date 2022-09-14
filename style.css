@@ -27,18 +27,9 @@ img ul li a {
         align-items: center;
         align-items: space between;
 
-        <footer class="footer">
-        <div class="footer_bg">
-        <div class="footer_container container grid">
-        <div>
-        <h1 class="footer_title">Abdul</h1>
-        <span class="footer_subtitle"developer</span>
 
 
     }
-
-    <ul class="footer_link">
-    <li>
 
     nav ul li{
         display: inline-block;
