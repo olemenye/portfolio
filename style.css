@@ -8,7 +8,7 @@
 position: relative;
 width: 100%;
 height: 100vh;
-background-image: url(/images/yo.jpg);
+background-image: url(./images/yo.jpg);
 background-size: cover;
 
 }
